@@ -1,5 +1,5 @@
 .content {
-    width: 90%;
+    width: 95%;
     margin: 1.4rem auto auto auto;
 }
 
@@ -13,6 +13,28 @@
     color: rgb(45, 45, 45);
 }
 
+button {
+   margin-bottom: .8rem;
+}
+
 .table {
     width: 100%;
+}
+
+.livros {
+    margin-left: .6rem;
+    color: #3068ef;
+}
+
+.edit {
+    color: #0449f1;
+}
+
+.delete {
+    color: #f30303;
+    margin-left: .5rem;
+}
+
+.mat-header {
+    width: 5rem;
 }
